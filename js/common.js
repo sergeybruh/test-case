@@ -43,4 +43,11 @@ $(document).ready(function() {
 		$(".people-r_tw").attr("href", $(this).find(".people-row_tw").text());
 
 	});
+
+	$('.menu-main-menu-container .menu-item a').click(function(){
+		var el = $(this).attr('href');
+		$('html,body').animate({
+			scrollTop: $(el).offset().top}, 700);
+		return false; 
+	});
 });
