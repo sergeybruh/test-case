@@ -84,7 +84,7 @@ provide for you ?</h2>
 		</div>
 	</div>
 	<!-- Блок 3 -->
-	<div class="b3">
+	<div class="b3" id="portfolio">
 		<h3 class="b3_title wow tada">feature products</h3>
 		<h4 class="b3_sub">Lorem ipsum dolor sit amet, consectetur adipis cing elit,sed do eiusmod tempor incididunt ut labore et.</h4>
 		<div class="b3_line"></div>
@@ -112,7 +112,7 @@ provide for you ?</h2>
 		</div>
 	</div>
 	<!-- Блок 4 -->
-	<div class="b4 wow slideInLeft">
+	<div class="b4 wow slideInLeft" id="about_us">
 		<h3 class="b4_title">Meet our team</h3>
 		<p class="b4_text">
 			Lorem ipsum dolor sit amet, consectetur adipis cing elit, sed dooing eiusmod tempor incididut labore Ui / Ux , print template.
@@ -182,7 +182,7 @@ provide for you ?</h2>
 		</form>
 	</div>
 	<!-- Блок 6 -->
-	<div class="b6">
+	<div class="b6" id="contact">
 		<h2 class="b6_title">get in touch</h2>
 		<p class="b6_text">Lorem ipsum dolor sit amet, consectetur adipis cing elit, sed do eiusmod tempor incididunt ut labore et.ur adipis cing elit, sed do eiusmod tempor incididunt ut labore et. ur adipis cing elit, sed do eiusmod tempor incididunt ut labore et.</p>
 		<div class="b6_line"></div>
